@@ -1,0 +1,9 @@
+{
+  "name": "AI Content Hub",
+  "description": "A cross-platform web application that manages daily content including text, audio, URLs, and images with AI-powered organization and real-time synchronization across all devices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
